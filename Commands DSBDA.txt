@@ -1,0 +1,72 @@
+1a and 1b Run directly
+
+
+
+2a
+create folder>>create txt file>>open git bash here>>following commands>>
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shwetaghule1106/w.git
+git push -u origin main
+
+for github link create new repo
+
+
+
+2b
+Docker practical
+go to c drive>>program files>>docker>>cmd>>following commands
+docker -v
+docker images
+docker ps
+docker pull openjdk
+docker images
+docker ps
+docker run --name MYIMAGE -it -d openjdk
+docker images
+docker ps
+jshell
+docker images
+/exit
+docker images
+docker stop a35d4b6b06a6
+docker container rm a35d4b6b06a6
+
+
+2c
+angular practical
+npm install -g @angular/cli
+ng serve --o
+
+
+
+3a
+go to vs code>>open integrated terminal>>following commands
+npm init -y
+npm install express
+node Server/server.js
+
+
+3b
+create folder "DB">>in that create another folder "Data">>copy path>>
+
+go to c drive>>program files>>mongodb>>server>>3.7>>bin>>open cmd>>type following command>>
+mongod --dbpath <path link>
+
+open compass>>connect>>create database>>college>>IT>>
+
+go to vs code>>open integrated terminal>>following commands>>
+npm init -y
+npx install express
+node index.js
+
+copy link>>open postman>>paste link>>click on post>>send
+
+
+
+
+
+
+https://github.com/suyash-more/Cloud-Computing-Projects/tree/master/Deploy-Web-Application-as-PaaS
