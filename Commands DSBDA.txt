@@ -38,6 +38,7 @@ docker container rm a35d4b6b06a6
 2c
 angular practical
 npm install -g @angular/cli
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ng serve --o
 
 
