@@ -65,6 +65,17 @@ node index.js
 copy link>>open postman>>paste link>>click on post>>send
 
 
+cc
+1a
+go to google cloud console>>console>>new project>>select project>>open terminal>>following commands>>
+git clone
+git clone<link>
+ls
+cd directory
+Python filename.py
+
+go to github>>new repo>>add file>>new file>>print something>>save with .py extension>>commit changes>>
+
 
 
 
